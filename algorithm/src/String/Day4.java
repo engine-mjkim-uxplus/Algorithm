@@ -39,39 +39,39 @@ public class Day4 {
 }
 
 // 2. lt(첫 글자)와 rt(마지막 글자)를 이용하여  특 정 자리교체
-public class Day4 {
-	public ArrayList<String> solution(int n, String[] str) {
-		ArrayList<String> answer = new ArrayList<>();
-		for(String x : str) {
-			char[] s = x.toCharArray();
-			int lt = 0, rt = x.length()-1;
-			while(lt<rt) {
-				char tmp = s[lt];
-				s[lt] = s[rt];
-				s[rt] = tmp;
-				lt++;
-				rt--;
-			}
-			String tmp = String.valueOf(s);
-			answer.add(tmp);
-			
-		}	
-		return  answer;
-	}
-	public static void main(String[] args) {
-		Day4 T = new Day4();
-		
-		Scanner sc = new Scanner(System.in);
-		int n = sc.nextInt();
-		String[] str = new String[n];
-		for(int i=0; i<n ; i++) {
-			str[i] = sc.next();
-		}
-		// ArrayList도 배열의 일종으로 향상된 for문을 이용하여 값을 하나씩 꺼낼 수 있다
-		// 단 저장된 자료형이 같아야한다.
-		for(String x : T.solution(n,str)) {
-			System.out.println(x);
-		}
-	}
-}
+//public class Day4 {
+//	public ArrayList<String> solution(int n, String[] str) {
+//		ArrayList<String> answer = new ArrayList<>();
+//		for(String x : str) {
+//			char[] s = x.toCharArray();
+//			int lt = 0, rt = x.length()-1;
+//			while(lt<rt) {
+//				char tmp = s[lt];
+//				s[lt] = s[rt];
+//				s[rt] = tmp;
+//				lt++;
+//				rt--;
+//			}
+//			String tmp = String.valueOf(s);
+//			answer.add(tmp);
+//			
+//		}	
+//		return  answer;
+//	}
+//	public static void main(String[] args) {
+//		Day4 T = new Day4();
+//		
+//		Scanner sc = new Scanner(System.in);
+//		int n = sc.nextInt();
+//		String[] str = new String[n];
+//		for(int i=0; i<n ; i++) {
+//			str[i] = sc.next();
+//		}
+//		// ArrayList도 배열의 일종으로 향상된 for문을 이용하여 값을 하나씩 꺼낼 수 있다
+//		// 단 저장된 자료형이 같아야한다.
+//		for(String x : T.solution(n,str)) {
+//			System.out.println(x);
+//		}
+//	}
+//}
 
