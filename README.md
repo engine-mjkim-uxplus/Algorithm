@@ -22,4 +22,7 @@
    <li>
    <a href="https://github.com/odong2/Algorithm/blob/main/algorithm/src/String/Day6.java">&nbsp;중복문자 제거</a>
   </li>
+   <li>
+   <a href="https://github.com/odong2/Algorithm/blob/main/algorithm/src/String/Day7.java">&nbsp;회문문자열</a>
+  </li>
 </ol>
