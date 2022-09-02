@@ -1,6 +1,5 @@
 /.metadata
 .settings
-./src/bin
+bin/
 .classpath
-.project
 .project
