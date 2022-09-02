@@ -33,8 +33,6 @@ public class Day3 {
 	}
 }
 
-
-
 // 2. String의 split을 활용하여 풀기
 class Main {
 	public String solution(String str) {
@@ -51,7 +49,6 @@ class Main {
 				
 		return answer;
 	}
-
 
 	public static void main(String[] args) {
 		Main T = new Main();
