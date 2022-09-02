@@ -19,4 +19,7 @@
    <li>
    <a href="https://github.com/odong2/Algorithm/blob/main/algorithm/src/String/Day5.java">특수문자 뒤집기</a>
   </li>
+   <li>
+   <a href="https://github.com/odong2/Algorithm/blob/main/algorithm/src/String/Day6.java">중복문자 제거</a>
+  </li>
 </ol>
