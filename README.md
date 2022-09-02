@@ -1,21 +1,23 @@
-# Algorithm
+### Algorithm
 Java 알고리즘(코딩테스트 대비)
 
-### 
 <ul>
   <li>
-  <a href="https://github.com/odong2/TIL/blob/main/Spring/%EC%9B%90%EA%B2%A9%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%20%EC%8B%A4%ED%96%89.md">
-  원격프로그램<a/>
+  <a href="https://github.com/odong2/Algorithm/blob/main/algorithm/src/String/Day1.java">
+  문자찾기<a/>
   </li>
   <li>
-  <a href="https://github.com/odong2/TIL/blob/main/Spring/HttpServletRequest.md">HttpServletRequest</a>
+  <a href="https://github.com/odong2/Algorithm/blob/main/algorithm/src/String/Day2.java">대소문자 변환</a>
   </li>
   <li>
-   <a href="https://github.com/odong2/TIL/blob/main/Spring/%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8%EC%99%80%20%EC%84%9C%EB%B2%84.md">
-   클라이언트와 서버
+   <a href="https://github.com/odong2/Algorithm/blob/main/algorithm/src/String/Day3.java">
+   문장속 단어
     </a>
   </li>
    <li>
-   <a href="https://github.com/odong2/TIL/blob/main/Spring/%EC%84%A4%EC%A0%95%ED%8C%8C%EC%9D%BC.md">설정 파일</a>
+   <a href="https://github.com/odong2/Algorithm/blob/main/algorithm/src/String/Day4.java">단어 뒤집기</a>
+  </li>
+   <li>
+   <a href=https://github.com/odong2/Algorithm/blob/main/algorithm/src/String/Day5.java">특수문자 뒤집기</a>
   </li>
 </ul>
