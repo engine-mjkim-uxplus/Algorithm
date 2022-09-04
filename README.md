@@ -32,6 +32,6 @@
    <a href="https://github.com/odong2/Algorithm/blob/main/algorithm/src/String/Day9.java">&nbsp;숫자만 추출</a>
   </li>
    <li>
-   <a href="https://github.com/odong2/Algorithm/blob/main/algorithm/src/String/Day10.java">&nbsp;</a>
+   <a href="https://github.com/odong2/Algorithm/blob/main/algorithm/src/String/Day10.java">&nbsp;최소 </a>
   </li>
 </ol>
