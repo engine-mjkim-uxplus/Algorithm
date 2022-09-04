@@ -25,4 +25,10 @@
    <li>
    <a href="https://github.com/odong2/Algorithm/blob/main/algorithm/src/String/Day7.java">&nbsp;회문문자열</a>
   </li>
+   <li>
+   <a href="https://github.com/odong2/Algorithm/blob/main/algorithm/src/String/Day8.java">&nbsp;팰린드롬</a>
+  </li>
+   <li>
+   <a href="https://github.com/odong2/Algorithm/blob/main/algorithm/src/String/Day9.java">&nbsp;숫자만 </a>
+  </li>
 </ol>
