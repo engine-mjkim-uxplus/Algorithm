@@ -59,7 +59,7 @@
   <a href="https://github.com/odong2/Algorithm/blob/main/algorithm/src/array/Day05.java">&nbsp;에라토스테네스의 체<a/>
   </li>
   <li>
-  <a href="https://github.com/odong2/Algorithm/blob/main/algorithm/src/array/Day06.java">&nbsp;뒤집은 <a/>
+  <a href="https://github.com/odong2/Algorithm/blob/main/algorithm/src/array/Day06.java">&nbsp;뒤집은 소수<a/>
   </li>
 </ol>
 
