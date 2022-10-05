@@ -1,5 +1,6 @@
 ### Java 알고리즘(코딩테스트 대비)
 ----
+## String
 <ol>
   <li>
   <a href="https://github.com/odong2/Algorithm/blob/main/algorithm/src/String/Day1.java">
@@ -34,6 +35,29 @@
    <li>
    <a href="https://github.com/odong2/Algorithm/blob/main/algorithm/src/String/Day10.java">&nbsp;최소 문자거리</a>
   </li>
-
+   <li>
+   <a href="https://github.com/odong2/Algorithm/blob/main/algorithm/src/String/Day11.java">&nbsp;문자열 압축</a>
+  </li>
+   <li>
+   <a href="https://github.com/odong2/Algorithm/blob/main/algorithm/src/String/Day12.java">&nbsp;암호</a>
+  </li>
+</ol>
+## Array(1,2차원 배열)
+<ol>
+  <li>
+  <a href="https://github.com/odong2/Algorithm/blob/main/algorithm/src/array/Day01.java">&nbsp;큰 수 출력하기<a/>
+  </li>
+  <li>
+  <a href="https://github.com/odong2/Algorithm/blob/main/algorithm/src/array/Day02.java">&nbsp;보이는 학생<a/>
+  </li>
+  <li>
+  <a href="https://github.com/odong2/Algorithm/blob/main/algorithm/src/array/Day03.java">&nbsp;가위바위보<a/>
+  </li>
+  <li>
+  <a href="https://github.com/odong2/Algorithm/blob/main/algorithm/src/array/Day05.java">&nbsp;에라토스테네스의 체<a/>
+  </li>
+  <li>
+  <a href="https://github.com/odong2/Algorithm/blob/main/algorithm/src/array/Day06.java">&nbsp;뒤집은 <a/>
+  </li>
 </ol>
 
