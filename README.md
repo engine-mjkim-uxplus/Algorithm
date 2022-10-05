@@ -42,7 +42,9 @@
    <a href="https://github.com/odong2/Algorithm/blob/main/algorithm/src/String/Day12.java">&nbsp;암호</a>
   </li>
 </ol>
-## Array(1,2차원 배열)
+
+## Array
+
 <ol>
   <li>
   <a href="https://github.com/odong2/Algorithm/blob/main/algorithm/src/array/Day01.java">&nbsp;큰 수 출력하기<a/>
