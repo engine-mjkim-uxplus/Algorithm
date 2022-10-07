@@ -8,17 +8,27 @@ import java.util.Scanner;
 public class Day12 {
 	public int solution(int n, int m, int[][] arr){
 		int answer=0;
+		// i,j는 학생을 의미 (멘토, 멘티)
+		// i학생(멘토가 될 학생)을 기준으로 j(멘티가 될 학생)을 비교하여 
+		// M(시험 횟수)번 만큼 i의 등수가 높으면 멘토,멘티 짝 경우의 수(answer++) 증가
 		for(int i=1; i<=n; i++){
 			for(int j=1; j<=n; j++){
+				// 한 회차 시험에서 i의 등수가 j의 등수보다 높으면 cnt++
 				int cnt=0;
-				for(int k=0; k<m; k++){
+				// k = 시험 n회차, s = 등수
+				for(int k=0; k < m; k++){
 					int pi=0, pj=0;
 					for(int s=0; s<n; s++){
+						// 인데스의 값은 등수이므로
+						// i학생 및 j학생은 해당 인덱스의 등수를 가진다.
 						if(arr[k][s]==i) pi=s;
 						if(arr[k][s]==j) pj=s;
 					}
+					// i(멘토 될 학생)이 j학생보다 등수가 낮으면 cnt++
 					if(pi<pj) cnt++;
 				}
+				// 모든 시험에서 i가 j의 등수보다 높아야 하므로
+				// cnt는 시험 회차(M)과 같아야 한다.
 				if(cnt==m){
 					answer++;
 					//System.out.println(i+" "+j);
