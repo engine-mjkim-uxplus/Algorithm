@@ -56,10 +56,22 @@
   <a href="https://github.com/odong2/Algorithm/blob/main/algorithm/src/array/Day03.java">&nbsp;가위바위보<a/>
   </li>
   <li>
-  <a href="https://github.com/odong2/Algorithm/blob/main/algorithm/src/array/Day05.java">&nbsp;에라토스테네스의 체<a/>
+  <a href="https://github.com/odong2/Algorithm/blob/main/algorithm/src/array/Day04.java">&nbsp;피보나치 수열<a/>
+  </li>
+  <li>
+  <a href="https://github.com/odong2/Algorithm/blob/main/algorithm/src/array/Day05.java">&nbsp;에라토스테네스 체<a/>
   </li>
   <li>
   <a href="https://github.com/odong2/Algorithm/blob/main/algorithm/src/array/Day06.java">&nbsp;뒤집은 소수<a/>
+  </li>
+  <li>
+  <a href="https://github.com/odong2/Algorithm/blob/main/algorithm/src/array/Day07.java">&nbsp;점수계산<a/>
+  </li>
+  <li>
+  <a href="https://github.com/odong2/Algorithm/blob/main/algorithm/src/array/Day08.java">&nbsp;등수구하기<a/>
+  </li>
+  <li>
+  <a href="https://github.com/odong2/Algorithm/blob/main/algorithm/src/array/Day09.java">&nbsp;격자판 최대합<a/>
   </li>
 </ol>
 
