@@ -80,7 +80,7 @@
   <a href="https://github.com/odong2/Algorithm/blob/main/algorithm/src/array/Day11.java">&nbsp;임시반장 정하기<a/>
   </li>
   <li>
-  <a href="https://github.com/odong2/Algorithm/blob/main/algorithm/src/array/Day12.java">&nbsp;<a/>
+  <a href="https://github.com/odong2/Algorithm/blob/main/algorithm/src/array/Day12.java">&nbsp;멘토링<a/>
   </li>
 </ol>
 
